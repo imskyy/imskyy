@@ -1,16 +1,22 @@
-## Hi there 👋
+# Daniel / imskyy
 
-<!--
-**imskyy/imskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**От идеи — к работающему проекту.**
 
-Here are some ideas to get you started:
+Привет! Здесь будут появляться мои проекты, эксперименты и готовые релизы.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+Новая коллекция в работе. Здесь появятся ссылки на лучшие проекты, их демо и описания.
+
+[Все репозитории →](https://github.com/imskyy?tab=repositories)
+
+## Как будут устроены проекты
+
+- Понятное описание: что делает проект и для кого он создан.
+- Инструкция по запуску и примеры использования.
+- Скриншоты или демо, когда есть что показать.
+- История изменений и планы развития.
+
+---
+
+Идея → прототип → проверка → релиз.
